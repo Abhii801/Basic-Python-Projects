@@ -40,6 +40,7 @@ def isexist(chance):
 flag = True
 print(play())
 while(flag):
+    #to check for recurring game play
     repeat = input("Enter 'c' to continue or 'e' to exit: ").lower()
     if(repeat=='c'):
         print(play())
