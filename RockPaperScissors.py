@@ -47,4 +47,4 @@ while(flag):
     elif(repeat=='e'):
         flag = False
     else:
-        print("Enter the choice correctly")
+        print("-------Enter the choice correctly-------")
