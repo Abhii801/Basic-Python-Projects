@@ -38,6 +38,7 @@ def isexist(chance):
         
 
 flag = True
+
 print(play())
 while(flag):
     #to check for recurring game play
